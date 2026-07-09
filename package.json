@@ -1,0 +1,24 @@
+{
+  "name": "proxchains-config",
+  "version": "1.0.0",
+  "description": "A project to host proxchains.conf on GitHub and deploy on Render.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/proxchains-config.git"
+  },
+  "keywords": [
+    "proxchains",
+    "configuration",
+    "render",
+    "github"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
